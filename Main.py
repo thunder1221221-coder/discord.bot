@@ -12,7 +12,7 @@ import json
 
 load_dotenv()
 TOKEN = os.getenv("TOKEN")
-GUILD_ID = 1286717617821847624 # Your Discord Server ID
+GUILD_ID = 1402312131302522920 # Your Discord Server ID
 
 intents = discord.Intents.default()
 intents.message_content = True
